@@ -12,3 +12,5 @@ https://chaudharys1.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Shital Chaudhary
+
+### ©️2021 Run Buddy, Inc 
