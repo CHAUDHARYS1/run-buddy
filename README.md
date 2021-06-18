@@ -1,7 +1,7 @@
 # Run Buddy Inc
 
 ## Purpose
-A webstie that offers fitness training services.
+A website that offers fitness training services.
 
 ## Built With 
 * HTML
@@ -12,3 +12,5 @@ https://chaudharys1.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Shital Chaudhary
+
+### ©️2021 Run Buddy, Inc 
